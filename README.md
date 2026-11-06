@@ -2,7 +2,7 @@
 
 ## Includings
 - Notebook 1.1 - Background mathematics: ipynb/colab [X]
-- Notebook 2.1 - Supervised learning: ipynb/colab []
+- Notebook 2.1 - Supervised learning: ipynb/colab [X]
 - Notebook 3.1 - Shallow networks I: ipynb/colab []
 - Notebook 3.2 - Shallow networks II: ipynb/colab [] 
 - Notebook 3.3 - Shallow network regions: ipynb/colab []

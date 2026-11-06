@@ -77,3 +77,16 @@
 
 ## Code of Conduct
 In that repository series, i will be also recording video walk through of each notebook and i'll almost fully limit the LLM usage in these series so formatting and writnig explanaation parts could be boring and there could be many typos :) feel free to clean and fix those, learn together!
+
+## Citation
+- Feel free to check the book and read it!
+
+```bash
+@book{prince2023understanding,
+    author = "Simon J.D. Prince",
+    title = "Understanding Deep Learning",
+    publisher = "The MIT Press",
+    year = 2023,
+    url = "http://udlbook.com"
+}
+```
